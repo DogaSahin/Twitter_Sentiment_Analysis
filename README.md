@@ -31,7 +31,7 @@ pip install name_of_library
 **note** : This project works in the tensorflow 1.x versions. You must check the version if you dont want to face errors.
 
 ### Dataset
-To evaluate the model you must download a speicic dataset mentioned in the link below.
+To evaluate the model you must download a specific dataset mentioned in the link below.
 - [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/kazanova/sentiment140)
 
 ### Author
