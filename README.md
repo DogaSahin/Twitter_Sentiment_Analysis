@@ -5,7 +5,8 @@
 1. [General Info](#general-info)
 2. [Requirements](#requirements)
 3. [Dataset](#dataset)
-4. [Author](#author)
+4. [Twitter API](#twitter-api)
+5. [Author](#author)
 
 ### General Info
 
@@ -33,6 +34,10 @@ pip install name_of_library
 ### Dataset
 To evaluate the model you must download a specific dataset mentioned in the link below.
 - [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/kazanova/sentiment140)
+
+### Twitter API
+
+To receive tweets, one needs to get their personal twitter api key and token. To get the Twitter API key, it is necessary to apply to Twitter. After your application is approved, you can place the necessary keys in the Get_Tweets notbeook and run the code.
 
 ### Author
 
